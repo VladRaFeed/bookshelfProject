@@ -1,21 +1,21 @@
 {
-  "name": "cringe-team-top-project",
+  "name": "bookshelfproject",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://KolBa228.github.io/bookshelf",
+  "homepage": "https://VladRaFeed/bookshelfProject",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /bookshelf/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KolBa228/bookshelf.git"
+    "url": "git+https://github.com/VladRaFeed/bookshelfProject.git"
   },
   "keywords": [],
   "author": "Mykola Bondariev B",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KolBa228/bookshelf/issues"
+    "url": "https://github.com/VladRaFeed/bookshelfProject/issues"
   },
   "dependencies": {
     "@parcel/core": "^2.9.3",
